@@ -1,5 +1,7 @@
+-- Nvim-Tree Configurations
+--
+--
 
-print("i'm dum")
 return {
   "nvim-tree/nvim-tree.lua",
   version = "*",
